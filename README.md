@@ -2,7 +2,7 @@
 Front-end Developer
 - 📫 How to reach me: 
   - 📧: dogukankorkut@outlook.com
-  - :office: [LinkedIn](www.linkedin.com/in/dogukankorkut)
+  - :office:: www.linkedin.com/in/dogukankorkut
 
 [![Dogukan's github stats](https://github-readme-stats.vercel.app/api?username=korkutDogukan&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
